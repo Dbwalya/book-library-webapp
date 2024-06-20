@@ -1,0 +1,46 @@
+{
+  "hash": "90190139",
+  "configHash": "9b25e524",
+  "lockfileHash": "91e2829e",
+  "browserHash": "5b9ac6fc",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "ba3fda0d",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "61a31d7f",
+      "needsInterop": true
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "4ad3d70b",
+      "needsInterop": false
+    },
+    "vaul": {
+      "src": "../../node_modules/vaul/dist/index.mjs",
+      "file": "vaul.js",
+      "fileHash": "3e0f3f9e",
+      "needsInterop": false
+    },
+    "usehooks-ts": {
+      "src": "../../node_modules/usehooks-ts/dist/index.js",
+      "file": "usehooks-ts.js",
+      "fileHash": "90786ccf",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-YBFRUR3B": {
+      "file": "chunk-YBFRUR3B.js"
+    },
+    "chunk-JRE55LYH": {
+      "file": "chunk-JRE55LYH.js"
+    }
+  }
+}
